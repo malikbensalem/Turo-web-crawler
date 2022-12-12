@@ -1,7 +1,7 @@
 # Turo web crawler
 
-Turo is a car rental service that allows users to rent out their vehicles to other users.
-Data is collected for each trip on https://turo.com/.
+Turo (https://turo.com/) is a car rental service that allows users to rent out their vehicles to other users.
+Data is for each car that the users owns for example registration number and information about trips clients had for example price and mileage.
 
 ## Prerequisite
 
